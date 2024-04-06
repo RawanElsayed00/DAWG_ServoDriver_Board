@@ -9683,6 +9683,197 @@
 		)
 		(uuid 6ab3fb4c-acf0-4610-9940-5f16c31ae681)
 	)
+	(rectangle
+		(start 52.07 76.2)
+		(end 86.36 97.79)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7cde7881-52d5-4b39-bad6-87d6a3518fd6)
+	)
+	(rectangle
+		(start 229.87 161.29)
+		(end 247.65 171.45)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7d9838da-636b-467a-96d6-87be540479b0)
+	)
+	(rectangle
+		(start 129.54 232.41)
+		(end 152.4 247.65)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 975fd85b-af12-478f-8255-f40688979f45)
+	)
+	(rectangle
+		(start 210.82 157.48)
+		(end 228.6 180.34)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 979880e8-b7a4-45cf-b206-2b4eb23a12e6)
+	)
+	(rectangle
+		(start 336.55 87.63)
+		(end 378.46 172.72)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a3114ba5-1ff3-45e2-a4dd-14908e67dff1)
+	)
+	(rectangle
+		(start 331.47 221.234)
+		(end 401.32 245.364)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d7e91441-ea47-45fb-803f-9de9824a01c9)
+	)
+	(rectangle
+		(start 283.21 69.85)
+		(end 299.72 82.55)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d855d4af-3581-48ca-86e3-5f8bf36159ef)
+	)
+	(rectangle
+		(start 162.56 89.916)
+		(end 199.39 92.456)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e115bf49-ccbb-4641-8bee-bcd063722e76)
+	)
+	(rectangle
+		(start 256.54 64.77)
+		(end 280.67 69.85)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e16b9b5c-7d0d-4364-910b-9a0ac04907fc)
+	)
+	(rectangle
+		(start 270.51 163.83)
+		(end 299.72 173.99)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e3e63901-da7e-41c1-8b40-8d5297791a62)
+	)
+	(rectangle
+		(start 306.07 50.8)
+		(end 359.41 67.31)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e4d53e9c-2a18-4a78-99fc-bf676496fa5f)
+	)
+	(rectangle
+		(start 217.17 114.3)
+		(end 246.38 124.46)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e7af8b6b-180b-47b9-a110-6680933a599c)
+	)
+	(rectangle
+		(start 120.65 55.88)
+		(end 176.53 76.2)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f4e3a402-7f36-49ee-a315-de334261aea7)
+	)
+	(text "no value selected. could be > 1uF"
+		(exclude_from_sim no)
+		(at 230.632 122.936 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "065078c9-4cbe-4680-8804-9a1009b28e04")
+	)
+	(text "NRST is pulled up internally,\nhowever we would like to have \nsome button that would reset it.\nthe low-pass is there (0.1uF and internal\npull-up), just need to add a button to\nground (or button + another resistor)\n"
+		(exclude_from_sim no)
+		(at 65.278 92.202 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "06dfdf1a-4d4f-4b84-bb71-7e23dc201231")
+	)
 	(text "Servo Header\n"
 		(exclude_from_sim no)
 		(at 316.484 86.106 0)
@@ -9707,6 +9898,29 @@
 		)
 		(uuid "2aad3963-9896-4b92-8144-d5ce2071ea59")
 	)
+	(text "- No connector for battery (2 screw-terminal for battery)\n- no pins for nucleo-64 board\n- no need for another LIDAR I2C pull up lines (one already provided)"
+		(exclude_from_sim no)
+		(at 332.74 226.06 0)
+		(effects
+			(font
+				(size 1.254 1.254)
+				(color 255 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "32ded988-9572-4d84-9d2b-c23fd5bcb668")
+	)
+	(text "Good recommendation in STM32 datasheets\nis to put a 0.1uF per VDD pin (total 5 \npins taking 3.3V, 4 0.1uF placed). \n4.7uF could be also replaced by 10uF \n(we have them already)"
+		(exclude_from_sim no)
+		(at 159.766 61.468 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "4678feaf-a55a-4341-b4e1-8f6c9410e9a8")
+	)
 	(text "Notes Missing: \n- C18 how to determine?\n- Instead of the bead what should be added?\n- The LiDAR I2C and SDA are not connected to pull up resistors\n"
 		(exclude_from_sim no)
 		(at 363.728 236.22 0)
@@ -9728,6 +9942,28 @@
 			)
 		)
 		(uuid "6ce63f5f-f311-4a10-94f3-21af47d43359")
+	)
+	(text "This line will \npower STM32 no?\nshould be connected\n to 3.3V "
+		(exclude_from_sim no)
+		(at 291.338 76.708 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "7410dc4a-22f8-475b-853f-11ca67f83e77")
+	)
+	(text "Strong assumption that \nthe power from screw-terminal\nwill power the servos. Is that\nwhat we agreed on ?"
+		(exclude_from_sim no)
+		(at 365.76 93.726 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "7461470f-cf72-4cca-8726-fcc00b5350d2")
 	)
 	(text "LDO - 5V\n"
 		(exclude_from_sim no)
@@ -9775,6 +10011,72 @@
 		)
 		(uuid "aa129615-db9d-42f9-a638-1c8e902f899a")
 	)
+	(text "probably should be routed :\nwe should use interrupt based\ncomms (no polling ).FSYNC should \nbe connected to GND."
+		(exclude_from_sim no)
+		(at 285.75 168.656 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "ab96e24f-09a4-4a8b-99e3-5cb44bdc4799")
+	)
+	(text "uncommon value of \nresistors. Could be \n1.8k, 2.2k or 4.7\n"
+		(exclude_from_sim no)
+		(at 219.456 177.292 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "b536dc70-db72-4417-8232-7f7717b3d390")
+	)
+	(text "could be pulled to \nGND (set LSB to 0)"
+		(exclude_from_sim no)
+		(at 238.76 163.83 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "c0539d94-12b6-45d9-8257-343e8f3fd89d")
+	)
+	(text "PWM4/3 is not placed. There does not seem\nto be any pin conflict and TIM4/3 can be placed ?"
+		(exclude_from_sim no)
+		(at 140.97 245.618 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "c2436386-58f2-4f9e-ab07-b0154f3cf170")
+	)
+	(text "PWM17/1 seems unconnected\nalso not sure whether we \nwant to use TIM 17"
+		(exclude_from_sim no)
+		(at 186.944 93.218 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "c7057989-2baf-4b8e-82e1-c76df01d7107")
+	)
+	(text "Isn't it better to connect\n NOT SLEEP to GND ?"
+		(exclude_from_sim no)
+		(at 267.208 67.056 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "cad833ed-7f59-4ea4-8c0f-283e9b0a4f06")
+	)
 	(text "Microcontroller\n"
 		(exclude_from_sim no)
 		(at 65.786 52.832 0)
@@ -9786,6 +10088,17 @@
 			)
 		)
 		(uuid "dcd527dd-2b0d-4fbf-810e-358aec033977")
+	)
+	(text "Lidar takes 5V in, however what voltage is on the I2C ? \nwe probably need to have here a logic level converter (3.3/5V) ?"
+		(exclude_from_sim no)
+		(at 332.74 54.102 0)
+		(effects
+			(font
+				(size 1 1)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "e5039274-9112-412b-99e7-50bf50f072da")
 	)
 	(text "IMU\n\n\n"
 		(exclude_from_sim no)
@@ -20490,7 +20803,7 @@
 		(dnp no)
 		(uuid "e13736fe-7b73-4507-9131-9f2d9ed23063")
 		(property "Reference" "C11"
-			(at 284.734 77.47 0)
+			(at 282.956 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20499,7 +20812,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 284.734 80.01 0)
+			(at 283.972 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
