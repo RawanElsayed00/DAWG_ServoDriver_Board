@@ -1,4 +1,4 @@
-23152252535903346
+23153967625902730
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70279,6 +70279,13 @@ U-DFN2020-6 (Type F)
 0
 8
 8
+Package_DFN_QFN
+ESP32PICOMINI02N8R2
+ESP32-PICO-MINI-02-N8R2-1
+Integrated Circuit
+0
+61
+61
 Package_DFN_QFN
 HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm
 HVQFN, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT758-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
