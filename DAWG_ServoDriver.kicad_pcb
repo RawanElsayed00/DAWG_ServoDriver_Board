@@ -19856,7 +19856,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C11"
-			(at -0.0675 -1.5 0)
+			(at 2.6 0 0)
 			(layer "F.SilkS")
 			(uuid "04310ed6-1166-4697-b423-95a3d07341b3")
 			(effects
@@ -41850,33 +41850,33 @@
 		)
 	)
 	(gr_arc
-		(start 27 148.6)
-		(mid 26.4 150.399998)
-		(end 25.8 148.6)
+		(start 27.3 76.149998)
+		(mid 26.705056 78.433675)
+		(end 25.909053 76.212072)
 		(stroke
-			(width 0.2)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "28dae0e6-ecd4-4664-9976-c7416e2b5326")
 	)
 	(gr_arc
-		(start 27.2 148.200001)
-		(mid 26.4 150.842218)
-		(end 25.599999 148.200001)
+		(start 27.55 75.65)
+		(mid 26.705495 78.991477)
+		(end 25.655786 75.708678)
 		(stroke
-			(width 0.2)
+			(width 0.4)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "33c00be5-3335-4219-ad12-b52f86d37b1e")
 	)
 	(gr_arc
-		(start 26.8 149)
-		(mid 26.4 149.965685)
-		(end 26 149)
+		(start 27.144975 76.705023)
+		(mid 26.65 77.899998)
+		(end 26.155025 76.705023)
 		(stroke
-			(width 0.2)
+			(width 0.25)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -42102,14 +42102,92 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "nion"
-		(at 28 151 0)
+	(gr_text "EN_B EN_A V_EN GND M_B M_A"
+		(at 24.5 152.05 0)
 		(layer "F.SilkS")
+		(uuid "011f3239-c023-4c30-ae0f-39f446a352df")
+		(effects
+			(font
+				(size 0.6 0.63)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V Servo"
+		(at 82.1 147.15 0)
+		(layer "F.SilkS")
+		(uuid "133bcffd-255a-4033-a1d5-5fc7afc2a367")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V DCMTR"
+		(at 26.2 147.4 0)
+		(layer "F.SilkS")
+		(uuid "2947b9c1-f062-4cdc-944e-8ba337ffa58f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "EN_B EN_A V_EN GND M_B M_A"
+		(at 41.7 152.1 0)
+		(layer "F.SilkS")
+		(uuid "4866d6c6-f0d8-449c-aea0-6ee1c8a968d0")
+		(effects
+			(font
+				(size 0.6 0.63)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "EN_B EN_A V_EN GND M_B M_A"
+		(at 76.8 152.05 0)
+		(layer "F.SilkS")
+		(uuid "953845f2-8b4a-47ab-8e12-aefb7683e56b")
+		(effects
+			(font
+				(size 0.6 0.63)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "EN_B EN_A V_EN GND M_B M_A"
+		(at 59.4 152.1 0)
+		(layer "F.SilkS")
+		(uuid "aee79245-becf-40a2-8d08-67a12084388a")
+		(effects
+			(font
+				(size 0.6 0.63)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "nion"
+		(at 28.6 78.799998 0)
+		(layer "F.SilkS" knockout)
 		(uuid "c791974b-7826-4446-81e5-399a6a863a32")
 		(effects
 			(font
 				(size 2 2)
-				(thickness 0.2)
+				(thickness 0.3)
 			)
 			(justify left bottom)
 		)
@@ -55121,5 +55199,11 @@
 	(group ""
 		(uuid "fe6eec5a-f9d5-45c8-a864-e7f767d17f7a")
 		(members "cc4378c6-6c7e-484c-aff8-dc50a309752f" "f3348520-9b0f-4b79-b100-57973a9e689c")
+	)
+	(group ""
+		(uuid "53f33d27-91eb-4e4f-9dad-426d18ad170c")
+		(members "28dae0e6-ecd4-4664-9976-c7416e2b5326" "33c00be5-3335-4219-ad12-b52f86d37b1e"
+			"4fc859f8-7f1f-4527-b22f-c6be2e80f9df" "c791974b-7826-4446-81e5-399a6a863a32"
+		)
 	)
 )
