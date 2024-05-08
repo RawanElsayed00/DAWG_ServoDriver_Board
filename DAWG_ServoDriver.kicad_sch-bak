@@ -17288,6 +17288,19 @@
 		)
 		(uuid f1cfa19d-a8d6-4089-975b-d3217ab83915)
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 228.854 289.56 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "0a5ae3fa-6807-4bb0-ad45-9689dff53f2c")
+	)
 	(text "Encoder Connectors"
 		(exclude_from_sim no)
 		(at 416.306 22.098 0)
@@ -17312,6 +17325,32 @@
 		)
 		(uuid "1e8bf829-d842-452f-a0e2-d74a702dfe81")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 557.53 83.058 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "24208b39-7d62-4743-bb4a-e377a180a22f")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 179.07 45.974 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "2815d298-5c93-43bf-b7de-c8bbcc2fbf39")
+	)
 	(text "Logic Level Converters\n\n\n\n\n"
 		(exclude_from_sim no)
 		(at 35.56 299.72 0)
@@ -17324,6 +17363,45 @@
 		)
 		(uuid "2aad3963-9896-4b92-8144-d5ce2071ea59")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 427.228 178.308 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "2c3cbe16-7ecf-4575-abeb-962dcfc6749b")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 102.87 240.284 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "2f40daa9-378e-4c76-9e81-17bf8dff4805")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 460.756 80.518 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "30ace0f6-a1fb-4d8f-a440-f2706161e6bf")
+	)
 	(text "Power Connectors\n\n"
 		(exclude_from_sim no)
 		(at 319.786 107.95 0)
@@ -17335,6 +17413,32 @@
 			)
 		)
 		(uuid "35c032f5-3a7c-4317-b91a-454a6b6ad476")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 464.058 186.436 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "3931ee49-0b9d-4e9c-be5f-478bd2616ec5")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 426.974 128.524 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "3e38c56e-fb07-403e-ad20-89bea9f8849b")
 	)
 	(text "ESP32-PICO-MINI-02\n\n"
 		(exclude_from_sim no)
@@ -17370,6 +17474,32 @@
 		)
 		(uuid "5d6d6555-dafc-45d2-9bb1-143e1004cd18")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 426.466 81.534 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "6758b90e-b259-4af8-a3d2-1a92f0b0538a")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 422.91 33.02 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "69367685-602a-4ae7-9d35-ff257909b706")
+	)
 	(text "LiDAR\n"
 		(exclude_from_sim no)
 		(at 403.098 262.382 0)
@@ -17393,6 +17523,19 @@
 			)
 		)
 		(uuid "750695d6-66b8-47b3-b106-ffb37a39b3ff")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 464.566 137.668 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "7bc085b7-edcc-4ee4-b444-87065c7363af")
 	)
 	(text "BOOT Select Voltage"
 		(exclude_from_sim no)
@@ -17430,6 +17573,32 @@
 		)
 		(uuid "82a530d4-c61b-4c18-9c04-5635181aad06")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 372.872 137.414 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "880e5a51-4d53-4e1d-a4bc-ab0ee40cfb80")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 361.188 76.454 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "8c991719-836d-4ea4-9576-4b6227530e5a")
+	)
 	(text "Logic Level Converters\n\n"
 		(exclude_from_sim no)
 		(at 421.894 293.37 0)
@@ -17461,6 +17630,19 @@
 			)
 		)
 		(uuid "a519f451-15b7-4a6e-ba5c-449f0409fa98")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 169.164 293.624 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "a7396d7d-420b-4d12-8dcc-015d8b65d54a")
 	)
 	(text "Power\n"
 		(exclude_from_sim no)
@@ -17496,6 +17678,32 @@
 		)
 		(uuid "ac458a49-f91b-4c28-9e03-62a1931199df")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 382.27 154.94 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "b56d8a79-5f9e-4edb-898e-e8e29718d4a1")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 560.832 179.832 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "bd123676-8215-403d-95b7-ce8abadbe6c0")
+	)
 	(text "Header pins, use shunt to select voltage\n"
 		(exclude_from_sim no)
 		(at 424.942 232.918 0)
@@ -17518,6 +17726,19 @@
 		)
 		(uuid "c5351ae9-dd69-4834-a273-35d8494bafe0")
 	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 557.022 31.496 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "d88145b0-fed8-4f8d-85ae-8562bca43d2d")
+	)
 	(text "Microcontroller\n"
 		(exclude_from_sim no)
 		(at 35.306 21.082 0)
@@ -17529,6 +17750,32 @@
 			)
 		)
 		(uuid "dcd527dd-2b0d-4fbf-810e-358aec033977")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 431.546 295.91 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "dec25028-9e02-4f20-b2ce-56ea0e9ba17b")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 560.832 132.08 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "e0abff61-bc37-4866-bd04-fbd967066e23")
 	)
 	(text "IMU1\n\n\n\n"
 		(exclude_from_sim no)
@@ -17565,6 +17812,19 @@
 			)
 		)
 		(uuid "eba72969-00a8-4848-8de2-900891d70f14")
+	)
+	(text "DONE"
+		(exclude_from_sim no)
+		(at 458.47 29.972 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 6 0 1)
+			)
+		)
+		(uuid "f68bf0b0-c8be-4b3a-b7e8-50a5e8dc1247")
 	)
 	(text "Morpho and Arduino Header"
 		(exclude_from_sim no)
@@ -17611,7 +17871,7 @@
 		)
 		(uuid "00e5832c-f9d1-46ae-a840-2505d4daeb34")
 	)
-	(label "PWM3{slash}2_M2"
+	(label "PWM4{slash}1_M2"
 		(at 152.4 177.8 0)
 		(fields_autoplaced yes)
 		(effects
@@ -17621,17 +17881,6 @@
 			(justify left bottom)
 		)
 		(uuid "034c7043-84e4-45cf-b0ca-ac04df63ce9f")
-	)
-	(label "IMU1_INT"
-		(at 152.4 200.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04adfc7c-9273-4ad0-b045-411ee11139af")
 	)
 	(label "V_M2A"
 		(at 547.37 88.9 180)
@@ -17655,8 +17904,8 @@
 		)
 		(uuid "05bc3478-0e87-4f57-bea4-33c858e14bcf")
 	)
-	(label "PWM2{slash}3_M4"
-		(at 173.99 215.9 0)
+	(label "PWM1{slash}1_M3"
+		(at 152.4 185.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17688,8 +17937,8 @@
 		)
 		(uuid "083db8ab-571b-43d7-97d4-556717625cdf")
 	)
-	(label "PWM1{slash}2_M3"
-		(at 152.4 215.9 0)
+	(label "PWM3{slash}2_M2"
+		(at 152.4 180.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17864,7 +18113,7 @@
 		)
 		(uuid "20ee34ff-5d6c-43e6-a65f-005a24af8073")
 	)
-	(label "IsenseM3"
+	(label "IsenseM4"
 		(at 71.12 196.85 0)
 		(fields_autoplaced yes)
 		(effects
@@ -17876,7 +18125,7 @@
 		(uuid "23105944-f919-492b-9ddc-f50d93e5bef4")
 	)
 	(label "PWM3{slash}2_M4"
-		(at 173.99 220.98 0)
+		(at 152.4 195.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18216,7 +18465,7 @@
 		)
 		(uuid "4923d703-0c95-4961-aec2-ffbd8284b4f7")
 	)
-	(label "IsenseM4"
+	(label "IsenseM3"
 		(at 71.12 194.31 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18259,6 +18508,17 @@
 			(justify left bottom)
 		)
 		(uuid "4fab6fb3-e803-4f15-ab71-fbab0770f3b6")
+	)
+	(label "IMU1_INT"
+		(at 185.42 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50630c70-35d5-4201-8572-a49a536a72c4")
 	)
 	(label "PWM3{slash}2_M4"
 		(at 492.76 190.5 0)
@@ -18358,17 +18618,6 @@
 			(justify right bottom)
 		)
 		(uuid "59aefa00-db4c-44fb-97cf-03a956595c69")
-	)
-	(label "IMU2_INT"
-		(at 152.4 198.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a59b9b3-fa5c-4103-9708-df778f99af1a")
 	)
 	(label "Mtr3_EncoderB"
 		(at 39.37 181.61 0)
@@ -18623,8 +18872,8 @@
 		)
 		(uuid "7bf78497-f9a2-463f-aecc-9d5521372eb2")
 	)
-	(label "PWM1{slash}1_M3"
-		(at 152.4 218.44 0)
+	(label "PWM1{slash}2_M3"
+		(at 152.4 182.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18733,7 +18982,7 @@
 		)
 		(uuid "8c324827-210e-4a81-b3bd-967ced3196ce")
 	)
-	(label "Mtr1_EncoderB"
+	(label "Mtr1_EncoderZ"
 		(at 152.4 175.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18809,6 +19058,17 @@
 			(justify left bottom)
 		)
 		(uuid "93882501-d502-4999-b684-40e90e32dafc")
+	)
+	(label "IMU2_INT"
+		(at 185.42 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9635bf98-4561-429b-b52b-8797fd9abe6a")
 	)
 	(label "PWM2{slash}3"
 		(at 144.78 351.79 90)
@@ -19041,7 +19301,7 @@
 		)
 		(uuid "bb12bd25-2911-4b73-8aa8-f8283c9f1d7e")
 	)
-	(label "Mtr1_EncoderZ"
+	(label "Mtr1_EncoderB"
 		(at 180.34 172.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19250,7 +19510,7 @@
 		)
 		(uuid "dee70b8d-072f-4a77-a58d-2b08c36bb7d1")
 	)
-	(label "PWM4{slash}1_M2"
+	(label "PWM2{slash}3_M4"
 		(at 152.4 187.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19448,7 +19708,7 @@
 		)
 		(uuid "f5318a72-501b-4416-b2b3-1bf50c7a3006")
 	)
-	(label "PWM3{slash}1_M1"
+	(label "PWM2{slash}1_M1"
 		(at 152.4 172.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19470,7 +19730,7 @@
 		)
 		(uuid "f991881f-fd3d-497e-9805-458caa7b20de")
 	)
-	(label "PWM2{slash}1_M1"
+	(label "PWM3{slash}1_M1"
 		(at 152.4 170.18 0)
 		(fields_autoplaced yes)
 		(effects
