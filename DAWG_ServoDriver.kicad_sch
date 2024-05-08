@@ -17904,7 +17904,7 @@
 		)
 		(uuid "05bc3478-0e87-4f57-bea4-33c858e14bcf")
 	)
-	(label "PWM2{slash}3_M4"
+	(label "PWM1{slash}1_M3"
 		(at 152.4 185.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -17937,7 +17937,7 @@
 		)
 		(uuid "083db8ab-571b-43d7-97d4-556717625cdf")
 	)
-	(label "PWM1{slash}2_M3"
+	(label "PWM3{slash}2_M2"
 		(at 152.4 180.34 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18113,7 +18113,7 @@
 		)
 		(uuid "20ee34ff-5d6c-43e6-a65f-005a24af8073")
 	)
-	(label "IsenseM3"
+	(label "IsenseM4"
 		(at 71.12 196.85 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18465,7 +18465,7 @@
 		)
 		(uuid "4923d703-0c95-4961-aec2-ffbd8284b4f7")
 	)
-	(label "IsenseM4"
+	(label "IsenseM3"
 		(at 71.12 194.31 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18575,7 +18575,7 @@
 		)
 		(uuid "568cb03a-c2cb-4dd4-b08a-0d7511c3b29f")
 	)
-	(label "Mtr2_EncoderB"
+	(label "Mtr2_EncoderZ"
 		(at 152.4 193.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18872,7 +18872,7 @@
 		)
 		(uuid "7bf78497-f9a2-463f-aecc-9d5521372eb2")
 	)
-	(label "PWM1{slash}1_M3"
+	(label "PWM1{slash}2_M3"
 		(at 152.4 182.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -18982,7 +18982,7 @@
 		)
 		(uuid "8c324827-210e-4a81-b3bd-967ced3196ce")
 	)
-	(label "Mtr1_EncoderB"
+	(label "Mtr1_EncoderZ"
 		(at 152.4 175.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19301,7 +19301,7 @@
 		)
 		(uuid "bb12bd25-2911-4b73-8aa8-f8283c9f1d7e")
 	)
-	(label "Mtr1_EncoderZ"
+	(label "Mtr1_EncoderB"
 		(at 180.34 172.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19477,7 +19477,7 @@
 		)
 		(uuid "d77e3829-7fd6-480f-867a-f4037de12d03")
 	)
-	(label "Mtr2_EncoderZ"
+	(label "Mtr2_EncoderB"
 		(at 180.34 187.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19510,7 +19510,7 @@
 		)
 		(uuid "dee70b8d-072f-4a77-a58d-2b08c36bb7d1")
 	)
-	(label "PWM3{slash}2_M2"
+	(label "PWM2{slash}3_M4"
 		(at 152.4 187.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19708,7 +19708,7 @@
 		)
 		(uuid "f5318a72-501b-4416-b2b3-1bf50c7a3006")
 	)
-	(label "PWM3{slash}1_M1"
+	(label "PWM2{slash}1_M1"
 		(at 152.4 172.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -19730,7 +19730,7 @@
 		)
 		(uuid "f991881f-fd3d-497e-9805-458caa7b20de")
 	)
-	(label "PWM2{slash}1_M1"
+	(label "PWM3{slash}1_M1"
 		(at 152.4 170.18 0)
 		(fields_autoplaced yes)
 		(effects
