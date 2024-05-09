@@ -1,4 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "DAWG_PCBFootprints")(type "KiCad")(uri "${KIPRJMOD}/DAWG_PCBFootprints.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/ESP32-PICO-MINI-02-N8R2/Library.pretty")(options "")(descr ""))
+  (lib (name "ESP32-PICO-MINI-02-N8R2")(type "KiCad")(uri "${KIPRJMOD}/ESP32-PICO-MINI-02-N8R2.pretty")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "${KIPRJMOD}/display.pretty")(options "")(descr ""))
 )
